@@ -1,4 +1,4 @@
-GSCI :: Design Documentation
+GSCI :: Project Documentation
 =============================
 
 ### Contents
