@@ -34,6 +34,11 @@ As a contributor to this project you are required to follow this development pro
 
 For all discussions we'll be using using the mailing list. Note that you must prepend the subject with "[projects] [gsci]" tags to mark that thread as a discussion for the gsci project.  
 
+Previous: [References][4]  
+Next: [Project Timeline][5]  
+
 [1]: https://github.com/pesos/gsci
 [2]: https://github.com/sathyamvellal/gsci/tree/design/references.md
 [3]: https://github.com/pesos/gsci/issues
+[4]: https://github.com/sathyamvellal/gsci/tree/design/references.md
+[5]: https://github.com/sathyamvellal/gsci/tree/design/timeline.md
